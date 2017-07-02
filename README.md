@@ -10,3 +10,5 @@ library(shiny)
 runGitHub("shiny_Chi-square-distribution", "lyokka") 
 ```
 Sample result is 
+
+![](chi-sqaure_sample_result.gif)
