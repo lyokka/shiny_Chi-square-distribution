@@ -4,7 +4,7 @@ shiny application to display simple Chi-square distribution with different degre
 
 Please install ``shiny`` before run this application, type the code below in your R script.
 
-> library(shiny)
-
+```R
+library(shiny)
 runGitHub("shiny_Chi-square-distribution", "lyokka") 
-
+```
