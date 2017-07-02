@@ -11,4 +11,4 @@ runGitHub("shiny_Chi-square-distribution", "lyokka")
 ```
 Sample result is 
 
-![](shiny_Chi-square-distribution/chi-square-sample_result.gif)
+![sample_result](chi-square-sample_result.gif)
